@@ -1,5 +1,3 @@
----
-
 Overview
 
 The Clean Room Prototype v0.1 is a local‑only, offline‑capable demonstration of a next‑generation information platform designed to:
